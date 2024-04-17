@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454107452040",
+    "project_id": "authsignin-e814c",
+    "storage_bucket": "authsignin-e814c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454107452040:android:5bd3c944b3451ab603453d",
+        "android_client_info": {
+          "package_name": "com.example.ccbbb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlrv99j6oo8ACn07kug9yT-dmGDfZmh8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
